@@ -29,7 +29,7 @@ const NavMobile = ()=> {
             {navigation.map((item, index) => {
                 return <li key ={index}>
                 <Link to={item.href} activeClass='active' spy={true} offset={-200} 
-                className='cursor-pointer'
+                className='hover:text-accent-hover transition-all duration-300 cursor-pointer'
             >
                 {item.name}</Link>
                 
