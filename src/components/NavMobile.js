@@ -19,7 +19,7 @@ const NavMobile = ()=> {
             <img src={BarsIcon} alt='' />
         </button>
         {/* nav list */}
-        <ul className={`${isOpen ? 'right-0 : '-right-full'}
+        <ul className={`${isOpen ? 'right-0' : '-right-full'}
             bg-primary fixed top-0 w-full h-screen text-white transition-all flex flex-col justify-center items-center space-y-8 text-lg`}
         >
             {/* close button */}
@@ -40,4 +40,4 @@ const NavMobile = ()=> {
     </nav>
 };
 
-export default NavMoblie;
+export default NavMobile;
