@@ -6,6 +6,7 @@ import Banner from './components/Banner';
 import Testimonials from './components/Testimonials';
 import Skills from './components/Skills';
 import Team from './components/Team';
+import Newsletter from './components/Newsletter';
 
 const App = () => {
   return <div>
@@ -13,6 +14,7 @@ const App = () => {
     <Testimonials />
     <Skills />
     <Team />
+    <Newsletter />
     
     <div className='h-[2000px]'></div>
   </div>;
