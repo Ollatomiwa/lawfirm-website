@@ -16,6 +16,9 @@ import TeamMember1 from '../src/assets/img/lawyer1.png';
 import TeamMember2 from '../src/assets/img/lawyer2.png';
 import TeamMember3 from '../src/assets/img/lawyer3.png';
 
+//import Blog images
+
+
 // import social icons
 import FacebookIcon from '../src/assets/img/social/facebook.png';
 import TwitterIcon from '../src/assets/img/social/twitter.png';
@@ -36,6 +39,10 @@ export const navigation = [
   {
     name: 'Our team',
     href: 'team',
+  },
+  {
+    name: 'Blog',
+    href: 'blog',
   },
   {
     name: 'Contact us',

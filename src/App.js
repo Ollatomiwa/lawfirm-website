@@ -7,7 +7,9 @@ import Testimonials from './components/Testimonials';
 import Skills from './components/Skills';
 import Team from './components/Team';
 import Newsletter from './components/Newsletter';
-
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import BackToTopButton from './components/BackToTopButton';
 const App = () => {
   return <div>
     <Banner />
@@ -15,8 +17,9 @@ const App = () => {
     <Skills />
     <Team />
     <Newsletter />
-    
-    <div className='h-[2000px]'></div>
+    <Contact />
+    <Footer />
+    <BackToTopButton />
   </div>;
 };
 
