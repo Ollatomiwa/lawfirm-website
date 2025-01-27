@@ -9,9 +9,9 @@ function Blog() {
         href="https://www.google.com"
         target="_blank"
         rel="noopener noreferrer"
-        className="btn lg:w-[580px] text-4xl font-primary font-extrabold mb-4 bg-primary hover:bg-accent-hover"
+        className="btn lg:w-[580px] text-4xl font-primary font-bold mb-4 hover:bg-accent-hover"
       >
-        CVisit Blog Page
+        Visit Blog Page
       </a>
     </div>
   </section>
