@@ -11,7 +11,7 @@ function Blog() {
         rel="noopener noreferrer"
         className="btn lg:w-[580px] text-4xl font-primary font-extrabold mb-4 bg-primary hover:bg-accent-hover"
       >
-        Click to go to Blog Page
+        CVisit Blog Page
       </a>
     </div>
   </section>
