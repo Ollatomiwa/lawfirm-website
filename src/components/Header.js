@@ -6,7 +6,7 @@ import Nav from './Nav';
 import NavMoblie from './NavMobile';
 
 // impport Logo
-import Logo from '../assets/img/d.JPG';
+import Logo from '../assets/img/logo1.PNG';
 
 const Header = ()=> {
     const [bg, setBg] = useState(false);
@@ -21,7 +21,7 @@ const Header = ()=> {
         });
     });
 
-    return <header className={`${bg && 'bg-white shadow-md py-4'} p-8 lg:px-0 w-full fixed z-10 
+    return <header className={`${bg && 'bg-white shadow-md py-2'} p-8 lg:px-0 w-full fixed z-10 
         transition-all duration-300`}
         >
             <div className='container mx-auto flex items-center justify-between'>

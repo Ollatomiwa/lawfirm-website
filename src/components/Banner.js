@@ -14,7 +14,7 @@ const Banner = () => {
             <div className='container mx-auto h-full lg:flex pt-32'>
                 {/* left side*/}
                 <div className='text-center mx-auto h-full lg:text-left pc-8 md:p-0'>
-                    <h1 className='font-primary font-black text-6xl lg:text-7xl text-primary mb-4 lg:mt-[70px] 
+                    <h1 className='font-primary font-black text-4xl lg:text-7xl text-primary mb-4 lg:mt-[70px] 
                     leading-tight lg:heading-[90px]'>
                         EXPERIENCED LEGAL <br/> <span className='text-accent'> SOLUTIONS.</span>
                     </h1>
