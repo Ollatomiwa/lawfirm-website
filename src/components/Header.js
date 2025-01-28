@@ -6,7 +6,7 @@ import Nav from './Nav';
 import NavMoblie from './NavMobile';
 
 // impport Logo
-import Logo from '../assets/img/logo.png';
+import Logo from '../assets/img/d.jpg';
 
 const Header = ()=> {
     const [bg, setBg] = useState(false);

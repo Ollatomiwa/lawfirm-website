@@ -6,11 +6,14 @@ const Skills = () => {
   return (
     <section id='skills' className='section bg-[#f8f3eca1] pb-32'>
         <div className='container mx-auto text-center'>
-            <h2 className='text-5xl font-primary font-extrabold mb-4'>What we do</h2>
+            <h2 className='text-5xl font-primary font-extrabold mb-4'>MISSION STATEMENT</h2>
             <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]'>
-                lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
-                 ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                To deliver to our clients creative legal solutions, outstanding legal representation and unforgettable 
+                customer experience with passion, candor, dynamism and guaranteed quality service.
+            </p>
+            <h2 className='text-5xl font-primary font-extrabold mb-4'>VISION STATEMENT</h2>
+            <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]'>
+                To be a foremost legal services provider noted for professionalism, excellence and humanism.
             </p>
             {/* skills grid*/}
             <div className='lg:grid lg:grid-cols-3 gap-12'>

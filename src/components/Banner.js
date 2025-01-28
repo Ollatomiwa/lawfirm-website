@@ -16,10 +16,10 @@ const Banner = () => {
                 <div className='text-center mx-auto h-full lg:text-left pc-8 md:p-0'>
                     <h1 className='font-primary font-black text-6xl lg:text-7xl text-primary mb-4 lg:mt-[70px] 
                     leading-tight lg:heading-[90px]'>
-                        Your Problem <br/> <span className='text-accent'> Our Goal.</span>
+                        EXPERIENCED LEGAL <br/> <span className='text-accent'> SOLUTIONS.</span>
                     </h1>
                     <p className='max-w-sm mx-auto mb-[50px] lg:mx-0 lg:max-w-[540px]'>
-                        lorem ipsum dolor sit amet consectetur,................
+                        Protecting Your Rights, Delivering Justice.
                     </p>
                     {/* Appointment*/}
                     <div className='lg:absolute mx-auto max-w-[445px] lg:mx-0'></div>
