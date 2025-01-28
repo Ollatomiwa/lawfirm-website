@@ -56,19 +56,19 @@ export const testimonials = [
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
     name: 'Jane Cooper',
     image: ProfilePhoto1,
-    position: 'Web Developer',
+    position: 'Family Lawyer',
   },
   {
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
     name: 'Theresa Webb',
     image: ProfilePhoto2,
-    position: 'Web Designer',
+    position: 'MD, A&T Law Firm',
   },
   {
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
     name: 'Kathryn Murphy',
     image: ProfilePhoto3,
-    position: 'UI/UX Designer',
+    position: 'CEO, Adequate Partners',
   },
 ];
 
@@ -76,39 +76,39 @@ export const testimonials = [
 export const skills = [
   {
     icon: Skill1,
-    title: 'Corruption',
+    title: 'Probate',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Legal process of resolving disputes over the validity of a will or the adminstration of an estate.',
   },
   {
     icon: Skill2,
-    title: 'Employment',
+    title: 'General Practice',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Offering a wide range of services across various area of law and addressing diverse legal needs for individuals and businesses.',
   },
   {
     icon: Skill3,
-    title: 'Real Estate',
+    title: 'Real Estate Law',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Legal espects of property transactions, ownership rights and management of properties',
   },
   {
     icon: Skill4,
     title: 'Taxes',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Rules and regulations governing the assessment and payment of taxes inposed by governments on individuals and businesses',
   },
   {
     icon: Skill5,
-    title: 'Corporate',
+    title: 'Corporate Commercial Law',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Legal aspects of business operations,including formation, governance, contracts and compliance with regulations.',
   },
   {
     icon: Skill6,
-    title: 'Banking',
+    title: 'Banking Law and Practice',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Regulations governing financial institutions, including the operation of banks, lending practices and compliance with financial regulations.',
   },
 ];
 
