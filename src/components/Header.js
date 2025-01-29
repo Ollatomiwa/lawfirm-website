@@ -6,7 +6,7 @@ import Nav from './Nav';
 import NavMoblie from './NavMobile';
 
 // impport Logo
-import Logo from '../assets/img/logo1.PNG';
+import Logo from '../assets/img/logo2.PNG';
 
 const Header = ()=> {
     const [bg, setBg] = useState(false);
@@ -26,11 +26,9 @@ const Header = ()=> {
         >
             <div className='container mx-auto flex items-center justify-between'>
                 {/* logo */}
-                <div classNmae="mr-auto">
                 <a href='#'>
                     <img src={Logo} alt='' />
                 </a>
-                </div>
                 {/* Nav */}
                 <Nav />
                 {/* Nav mobile */}
