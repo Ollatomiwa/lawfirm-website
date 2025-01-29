@@ -54,22 +54,24 @@ export const navigation = [
 // testimonials data
 export const testimonials = [
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Jane Cooper',
-    image: ProfilePhoto1,
-    position: 'Family Lawyer',
+    text: 'Education is the bedrock of any society and the law is the foundation of justice.',
+    name: 'Chief Afe Babalola',
+    position: 'SAN',
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Theresa Webb',
-    image: ProfilePhoto2,
-    position: 'MD, A&T Law Firm',
+    text: 'The law is not just for the rich and powerful, it is for the common man to seek justice',
+    name: 'Femi Falana',
+    position: 'SAN',
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Kathryn Murphy',
-    image: ProfilePhoto3,
-    position: 'CEO, Adequate Partners',
+    text: 'The law must be a shield to the opressed and not a sword in the hands of the opressor',
+    name: 'Chief Gani Fawehinmi',
+    position: 'Human right activist, SAN',
+  },
+  {
+    text: 'A lawyer must be a minister in the temple of justice, not a merchant in the marketplace of litigation',
+    name: 'Chief Wole Olaonipekun',
+    position: 'SAN',
   },
 ];
 
