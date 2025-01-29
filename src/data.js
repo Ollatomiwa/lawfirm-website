@@ -12,10 +12,10 @@ import Skill5 from '../src/assets/img/skills/skill5.png';
 import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
-import TeamMember1 from '../src/assets/img/lawyer1.png';
-import TeamMember2 from '../src/assets/img/lawyer2.png';
+import TeamMember1 from '../src/assets/img/adesina.jpeg';
+import TeamMember2 from '../src/assets/img/idowu.jpeg';
 import TeamMember3 from '../src/assets/img/lawyer3.png';
-import TeamMember5 from '../src/assets/img/endurance.jpg';
+import TeamMember5 from '../src/assets/img/endurance.jpeg';
 
 //import Blog images
 
