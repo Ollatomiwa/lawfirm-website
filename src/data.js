@@ -15,6 +15,7 @@ import Skill6 from '../src/assets/img/skills/skill6.png';
 import TeamMember1 from '../src/assets/img/lawyer1.png';
 import TeamMember2 from '../src/assets/img/lawyer2.png';
 import TeamMember3 from '../src/assets/img/lawyer3.png';
+import TeamMember5 from '../src/assets/img/endurance.jpg';
 
 //import Blog images
 
@@ -77,38 +78,32 @@ export const skills = [
   {
     icon: Skill1,
     title: 'Probate',
-    description:
-      'Legal process of resolving disputes over the validity of a will or the adminstration of an estate.',
+    description:'Legal process of resolving disputes over the validity of a will or the adminstration of an estate.',
   },
   {
     icon: Skill2,
     title: 'General Practice',
-    description:
-      'Offering a wide range of services across various area of law and addressing diverse legal needs for individuals and businesses.',
+    description:'Offering a wide range of services across various area of law and addressing diverse legal needs for individuals and businesses.',
   },
   {
     icon: Skill3,
     title: 'Real Estate Law',
-    description:
-      'Legal espects of property transactions, ownership rights and management of properties',
+    description:'Legal espects of property transactions, ownership rights and management of properties',
   },
   {
     icon: Skill4,
     title: 'Taxes',
-    description:
-      'Rules and regulations governing the assessment and payment of taxes inposed by governments on individuals and businesses',
+    description: 'Rules and regulations governing the assessment and payment of taxes inposed by governments on individuals and businesses',
   },
   {
     icon: Skill5,
     title: 'Corporate Commercial Law',
-    description:
-      'Legal aspects of business operations,including formation, governance, contracts and compliance with regulations.',
+    description:'Legal aspects of business operations,including formation, governance, contracts and compliance with regulations.',
   },
   {
     icon: Skill6,
     title: 'Banking Law and Practice',
-    description:
-      'Regulations governing financial institutions, including the operation of banks, lending practices and compliance with financial regulations.',
+    description:'Regulations governing financial institutions, including the operation of banks, lending practices and compliance with financial regulations.',
   },
 ];
 
@@ -116,24 +111,38 @@ export const skills = [
 export const team = [
   {
     image: TeamMember1,
-    name: 'Jane William',
-    position: 'Band & Financial Lawyer',
+    name: 'E.A. ADESINA',
+    position: 'MD. E.A. ADESINA & CO',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      '',
   },
   {
     image: TeamMember2,
-    name: 'Andrea Collins',
-    position: 'Family Lawyer',
+    name: 'Idowu Olowu',
+    position: ' Lawyer',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      '',
   },
   {
     image: TeamMember3,
-    name: 'John Smith',
-    position: 'Business Lawyer',
+    name: 'Boluwaji Osinbajo',
+    position: 'Lawyer',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      '',
+  },
+  {
+    image: TeamMember3,
+    name: 'Bosun',
+    position: 'Lawyer',
+    description:
+      '',
+  },
+  {
+    image: TeamMember5,
+    name: 'Endurance Owei',
+    position: 'Secretary',
+    description:
+      '',
   },
 ];
 
