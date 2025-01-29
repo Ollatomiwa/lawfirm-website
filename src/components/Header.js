@@ -26,9 +26,11 @@ const Header = ()=> {
         >
             <div className='container mx-auto flex items-center justify-between'>
                 {/* logo */}
+                <div classNmae="mr-auto">
                 <a href='#'>
                     <img src={Logo} alt='' />
                 </a>
+                </div>
                 {/* Nav */}
                 <Nav />
                 {/* Nav mobile */}
