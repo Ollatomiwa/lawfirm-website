@@ -6,7 +6,7 @@ function Blog() {
     <div className="container mx-auto flex justify-center items-center text-center">
      
       <a
-        href="https://www.google.com"
+        href="https://www.eaadesinaandco-blog.vercel.app"
         target="_blank"
         rel="noopener noreferrer"
         className="btn lg:w-[580px] text-4xl bg-accent hover:bg-accent-hover transition-all">
