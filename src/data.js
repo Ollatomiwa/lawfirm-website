@@ -121,14 +121,14 @@ export const team = [
   {
     image: TeamMember2,
     name: 'Idowu Olowu Esq',
-    position: ' Lawyer',
+    position: 'Associate Lawyer',
     description:
       '',
   },
   {
     image: TeamMember3,
     name: 'Boluwaji Osinbajo Esq',
-    position: 'Lawyer',
+    position: 'Associate Lawyer',
     description:
       '',
   },
