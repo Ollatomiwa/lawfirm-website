@@ -13,10 +13,10 @@ import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
 import TeamMember1 from '../src/assets/img/adesina.jpg';
-import TeamMember2 from '../src/assets/img/idowu1.jpg';
-import TeamMember3 from '../src/assets/img/lawyer3.png';
-import TeamMember5 from '../src/assets/img/endurance1.jpg';
-
+import TeamMember2 from '../src/assets/img/idowu.png';
+import TeamMember3 from '../src/assets/img/boluwaji.png';
+import TeamMember5 from '../src/assets/img/endurance.png';
+import TeamMember4 from '../src/assets/img/mosh.png';
 //import Blog images
 
 
@@ -113,28 +113,21 @@ export const skills = [
 export const team = [
   {
     image: TeamMember1,
-    name: 'E.A. ADESINA',
+    name: 'E.A. ADESINA(JP)Esq',
     position: 'MD. E.A. ADESINA & CO',
     description:
       '',
   },
   {
     image: TeamMember2,
-    name: 'Idowu Olowu',
+    name: 'Idowu Olowu Esq',
     position: ' Lawyer',
     description:
       '',
   },
   {
     image: TeamMember3,
-    name: 'Boluwaji Osinbajo',
-    position: 'Lawyer',
-    description:
-      '',
-  },
-  {
-    image: TeamMember3,
-    name: 'Bosun',
+    name: 'Boluwaji Osinbajo Esq',
     position: 'Lawyer',
     description:
       '',
@@ -143,6 +136,13 @@ export const team = [
     image: TeamMember5,
     name: 'Endurance Owei',
     position: 'Secretary',
+    description:
+    '',
+  },
+  {
+    image: TeamMember4,
+    name: 'Moshood Ajao',
+    position: '',
     description:
       '',
   },
