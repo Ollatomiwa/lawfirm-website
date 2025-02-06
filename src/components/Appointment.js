@@ -41,7 +41,7 @@ const Appointment = () => {
 
 return (
     <div className="bg-accent w-full p-8 rounded-sm max-w-[22rem] md:max-w-md mx-auto">
-      <h3 className="text-white text-[28px] font-bold tracking-[0.3px] text-center">
+      <h3 className="text-white text-[24px] font-bold tracking-[0.3px] text-center">
         Get an Appointment
       </h3>
       <div className="w-[54px] h-[3px] bg-white my-6 mx-auto"></div>
@@ -75,6 +75,13 @@ return (
             type="email"
             name="user_email"
             placeholder="  Email address"
+            required
+            className="form_control h-[70px]"
+          />
+          <input
+            type="number"
+            name="user_number"
+            placeholder="  Phone Number"
             required
             className="form_control h-[70px]"
           />
