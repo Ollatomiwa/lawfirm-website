@@ -11,7 +11,7 @@ const Team = () => {
 
 
             {/* team members grid */}
-            <div className='grid lg:grid-cols-3 md:grid-cols-2 lg:gap-x-[30px]  w-full'>
+            <div className='grid lg:grid-cols-4 md:grid-cols-2 lg:gap-x-[30px]  w-full'>
            {team.map((item, index) => {
             const {name, position, image, description} = item;
             return <div className='text-center lg:text-center mb-12' key={index}>

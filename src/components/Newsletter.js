@@ -1,20 +1,20 @@
 import React from 'react'
 
 
+
 const Newsletter = () => {
   return (
-    <section id='n' className='bg-accent pt-[54px] pb-[74px]'>
+    <section id='newsletter' className='bg-accent pt-[54px] pb-[74px]'>
         <div className='container mx-auto px-8 text-center'>
             <h3 className='font-primary text-[40px] font-extrabold leading-[1.2] text-white mb-[12px]'>
-                Subscribe to our Newsletter
+                Read The Latest Blog News
             </h3>
-            <p className='mb-[40px] text-white text-sm'>Be first to get the latest news about us.</p>
-            <form className='max-w-[600px] mx-auto flex flex-col lg:flex-row'>
-                <input className='form-control mb-4 ' placeholder='Your email address' type='email'/>
-                <button className='btn bg-primary hover:bg-primary-hover lg:max-w-[150px] lg:ml-4'>
-                    Join
+            <p className='mb-[40px] text-white text-[20px]'>Be first to get the latest news about us.</p>
+            <div className='max-w-[600px] mx-auto flex flex-col lg:text-center '>
+                <button href="https://eaadesinaandco-blog.vercel.app" target="_blank" rel="noopener noreferrer" className='btn bg-primary hover:bg-primary-hover lg:text-[30px] '>
+                    GO TO BLOG PAGE
                 </button>
-            </form>
+            </div>
         </div>
     </section>
   )
