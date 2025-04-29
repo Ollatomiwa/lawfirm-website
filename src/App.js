@@ -6,7 +6,6 @@ import Banner from './components/Banner';
 import Testimonials from './components/Testimonials';
 import Skills from './components/Skills';
 import Team from './components/Team';
-import Blog from './components/Blog';
 import Newsletter from './components/Newsletter';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -17,7 +16,6 @@ const App = () => {
     <Testimonials />
     <Skills />
     <Team />
-    <Blog />
     <Newsletter />
     <Contact />
     <Footer />

@@ -1,7 +1,7 @@
 // import profile images
-import ProfilePhoto1 from '../src/assets/img/profile1.png';
-import ProfilePhoto2 from '../src/assets/img/profile2.png';
-import ProfilePhoto3 from '../src/assets/img/profile3.png';
+// import ProfilePhoto1 from '../src/assets/img/profile1.png';
+// import ProfilePhoto2 from '../src/assets/img/profile2.png';
+// import ProfilePhoto3 from '../src/assets/img/profile3.png';
 
 // import about icons
 import Skill1 from '../src/assets/img/skills/skill1.png';
@@ -16,7 +16,7 @@ import TeamMember1 from '../src/assets/img/adesina.jpg';
 import TeamMember2 from '../src/assets/img/idowu.png';
 import TeamMember3 from '../src/assets/img/boluwaji.png';
 import TeamMember5 from '../src/assets/img/endurance.png';
-import TeamMember4 from '../src/assets/img/mosh.png';
+
 //import Blog images
 
 
@@ -41,9 +41,10 @@ export const navigation = [
     name: 'Our team',
     href: 'team',
   },
+  
   {
     name: 'Blog',
-    href: 'blog',
+    href: 'newsletter',
   },
   {
     name: 'Contact us',
@@ -138,13 +139,6 @@ export const team = [
     position: 'Secretary',
     description:
     '',
-  },
-  {
-    image: TeamMember4,
-    name: 'Moshood Ajao',
-    position: '',
-    description:
-      '',
   },
 ];
 
