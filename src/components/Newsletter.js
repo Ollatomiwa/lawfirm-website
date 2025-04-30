@@ -11,9 +11,9 @@ const Newsletter = () => {
             </h3>
             <p className='mb-[40px] text-white text-[20px]'>Be first to get the latest news about us.</p>
             <div className='max-w-[600px] mx-auto flex flex-col lg:text-center '>
-                <button href="https://eaadesinaandco-blog.vercel.app" target="_blank" rel="noopener noreferrer" className='btn bg-primary hover:bg-primary-hover lg:text-[30px] '>
+                <a href="https://eaadesinaandco-blog.vercel.app" target="_blank" rel="noopener noreferrer" className='btn bg-primary hover:bg-primary-hover lg:text-[30px] '>
                     GO TO BLOG PAGE
-                </button>
+                </a>
             </div>
         </div>
     </section>
