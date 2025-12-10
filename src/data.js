@@ -12,10 +12,10 @@ import Skill5 from '../src/assets/img/skills/skill5.png';
 import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
-import TeamMember1 from '../src/assets/img/adesina.jpg';
-import TeamMember2 from '../src/assets/img/idowu.png';
-import TeamMember3 from '../src/assets/img/boluwaji.png';
-import TeamMember5 from '../src/assets/img/endurance.png';
+import TeamMember1 from '../src/assets/img/lawyer3.png';
+import TeamMember2 from '../src/assets/img/lawyer3.png';
+import TeamMember3 from '../src/assets/img/lawyer3.png';
+import TeamMember5 from '../src/assets/img/lawyer3.png';
 
 //import Blog images
 
@@ -114,28 +114,28 @@ export const skills = [
 export const team = [
   {
     image: TeamMember1,
-    name: 'E.A. ADESINA(JP)Esq',
-    position: 'MD. E.A. ADESINA & CO',
+    name: 'SAM Weather(JP)Esq',
+    position: 'Principal, THE LAW & CO',
     description:
       '',
   },
   {
     image: TeamMember2,
-    name: 'Idowu Olowu Esq',
+    name: 'Ethan Ennis Esq',
     position: 'Associate Lawyer',
     description:
       '',
   },
   {
     image: TeamMember3,
-    name: 'Boluwaji Osinbajo Esq',
+    name: 'Bolu James Esq',
     position: 'Associate Lawyer',
     description:
       '',
   },
   {
     image: TeamMember5,
-    name: 'Endurance Owei',
+    name: 'Sunday Joseph',
     position: 'Secretary',
     description:
     '',
