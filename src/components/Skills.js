@@ -11,10 +11,6 @@ const Skills = () => {
                 To deliver to our clients creative legal solutions, outstanding legal representation and unforgettable 
                 customer experience with passion, candor, dynamism and guaranteed quality service.
             </p>
-            <h2 className='text-5xl font-primary font-extrabold mb-4'>VISION STATEMENT</h2>
-            <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]'>
-                To be a foremost legal services provider noted for professionalism, excellence and humanism.
-            </p>
             {/* skills grid*/}
             <div className='lg:grid lg:grid-cols-3 gap-12'>
                 {skills.map((item, index) => {

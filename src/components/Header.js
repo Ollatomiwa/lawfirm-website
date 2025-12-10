@@ -6,7 +6,7 @@ import Nav from './Nav';
 import NavMoblie from './NavMobile';
 
 // impport Logo
-import Logo from '../assets/img/logo2.PNG';
+import Logo from '../assets/img/logo.png';
 
 const Header = ()=> {
     const [bg, setBg] = useState(false);
@@ -26,7 +26,7 @@ const Header = ()=> {
         >
             <div className='container mx-auto flex items-center justify-between'>
                 {/* logo */}
-                <a href='#'>
+                <a href='https://google.com'>
                     <img src={Logo} alt='' />
                 </a>
                 {/* Nav */}

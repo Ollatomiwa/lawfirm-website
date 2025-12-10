@@ -15,7 +15,7 @@ const Team = () => {
            {team.map((item, index) => {
             const {name, position, image, description} = item;
             return <div className='text-center lg:text-center mb-12' key={index}>
-                <img src={image} alt='lawyer' className='mx-auto lg:mx-0 mb-6 h-[200px] w-[197px] rounded-full border-accent' />
+                <img src={image} alt='lawyer' className='mx-auto lg:mx-0 mb-6 h-[200px] w-[210px] rounded-full border-accent' />
                 <h4 className='text-2xl mb-2 text-[#C9C0A5] font-bold lg:text-left '>{name}</h4>
                 <p className='text-md uppercase tracking-[0.3px] mb-4 opacity-[0.8] lg:text-left  lg:pl-7 text-accent font-bold'>{position}</p>
                 <p className='max-w-[332px] lg:max-w-[350px] mx-auto lg:mx-0'>{description}</p>
