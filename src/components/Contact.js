@@ -41,7 +41,7 @@ const Contact = () => {
     <div className="container mx-auto text-center">
         <h2 className="text-5xl font-primary font-extrabold mb-4">Contact us</h2>
         <p className="max-w-[540px] mx-auto px-6 lg:px-0 mb-[64px]">
-                    179, Igbosere Road, Lagos.
+                    179, lagos Road, Lagos.
         </p>
       <form
         ref={form}
